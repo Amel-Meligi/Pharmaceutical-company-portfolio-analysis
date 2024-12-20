@@ -1,7 +1,5 @@
 # Pharmaceutical-company-portfolio-analysis
-Analysis for products portfolio for famous pharmaceutical companies
-
-This Power BI dashboard provides an in-depth analysis for famous pharmaceutical companies' product portfolio.  
+Analysis for products portfolio for famous pharmaceutical companies, this Power BI dashboard provides an in-depth analysis for famous pharmaceutical companies' product portfolio.  
 
 ## Key Features  
 - **Comprehensive Product Coverage**  
